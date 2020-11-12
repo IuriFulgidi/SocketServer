@@ -1,0 +1,11 @@
+E:\Projects\SocketServer\SocketServer\bin\Debug\netcoreapp2.1\SocketServer.deps.json
+E:\Projects\SocketServer\SocketServer\bin\Debug\netcoreapp2.1\SocketServer.runtimeconfig.json
+E:\Projects\SocketServer\SocketServer\bin\Debug\netcoreapp2.1\SocketServer.runtimeconfig.dev.json
+E:\Projects\SocketServer\SocketServer\bin\Debug\netcoreapp2.1\SocketServer.dll
+E:\Projects\SocketServer\SocketServer\bin\Debug\netcoreapp2.1\SocketServer.pdb
+E:\Projects\SocketServer\SocketServer\obj\Debug\netcoreapp2.1\SocketServer.csprojAssemblyReference.cache
+E:\Projects\SocketServer\SocketServer\obj\Debug\netcoreapp2.1\SocketServer.csproj.CoreCompileInputs.cache
+E:\Projects\SocketServer\SocketServer\obj\Debug\netcoreapp2.1\SocketServer.AssemblyInfoInputs.cache
+E:\Projects\SocketServer\SocketServer\obj\Debug\netcoreapp2.1\SocketServer.AssemblyInfo.cs
+E:\Projects\SocketServer\SocketServer\obj\Debug\netcoreapp2.1\SocketServer.dll
+E:\Projects\SocketServer\SocketServer\obj\Debug\netcoreapp2.1\SocketServer.pdb
